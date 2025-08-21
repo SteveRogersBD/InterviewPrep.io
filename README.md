@@ -8,7 +8,6 @@
 [![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Vite%20%7C%20TypeScript-ff69b4.svg)](#)
 [![Backend](https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20WebSockets-orange.svg)](#)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black.svg)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-0.1.0-yellow.svg)](#)
 
 *A mock‑interview platform where candidates book slots, join live rooms, collaborate in a coding editor, chat in real‑time, and receive rubric‑based feedback.*
@@ -204,12 +203,6 @@ Pull requests are welcome! For major changes, open an issue first to discuss sco
 **Branching**: `feat/*`, `fix/*`, `chore/*`
 **Commit style**: Conventional Commits
 **PR checklist**: tests, docs, accessible UI, screenshots for UI changes
-
----
-
-## 📜 License
-
-This project is licensed under the **Truman License** — see [LICENSE](LICENSE).
 
 ---
 
