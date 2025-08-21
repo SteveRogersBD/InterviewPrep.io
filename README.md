@@ -205,6 +205,16 @@ Pull requests are welcome! For major changes, open an issue first to discuss sco
 **PR checklist**: tests, docs, accessible UI, screenshots for UI changes
 
 ---
+## 🤝 Contributing
+
+We welcome contributions from the community! Here's how you can help:
+
+### Ways to Contribute
+- 🐛 **Bug Reports**: Found a bug? [Open an issue](https://github.com/SteveRogersBD/InterviewPrep.io/issues)
+- 💡 **Feature Requests**: Have an idea? [Start a discussion](https://github.com/SteveRogersBD/InterviewPrep.io/discussions)
+- 🔧 **Code Contributions**: Submit pull requests for bug fixes or new features
+- 📖 **Documentation**: Help improve our docs and tutorials
+---
 
 ## 👤 Contact / Author Info
 
